@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+h1 {
+  color: #000000;
+  padding:0px 60px 0px 60px;  
+}
+
+p {
+  color: rgb(0, 0, 0);
+  padding:0px 60px 0px 60px;
+  font-size: larger;
+}
+
+h2{
+  color: #000000;
+  text-align: center;
+}
+
+a { 
+  color: #000000;
+  text-align: center;
+}
+
+ul.a {
+  list-style-type: square;
+}
+
+.logoImage{
+  width:300px;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  background: linear-gradient(to top left, #6bd6e4, #7dd56f); 
+}
+ 
+  .funFact{
+   background: linear-gradient(to top left, #6bd6e4, #7dd56f);
+   width:600px;
+   border-style: solid;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  text-justify:inter-word;
+  padding:3px 20px 20px 20px;
+}
+.usefulLinks{
+  background: linear-gradient(to top left, #6bd6e4, #7dd56f);
+   width:600px;
+   border-style: solid;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  text-justify:inter-word;
+  padding:3px 20px 20px 20px;
+}
+
+.boxContainer{
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
